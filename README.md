@@ -1,7 +1,8 @@
 # Formulaire-back
-<h2> Dependances à ajouter<h2>
+<h2> Dependances à ajouter</h2>
 
-npm install --save express
+<h4>npm install --save express
                    body-parser
                    async-waterfall
                    express-validator
+</h4>
